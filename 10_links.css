@@ -1,0 +1,23 @@
+a {
+  text-decoration: none;
+  transition: all 0.2;
+}
+a:hover {
+  color: darkgreen;
+  font-size: 2rem;
+}
+a:active {
+  color: chartreuse;
+}
+/* .btn {
+  background: #1111114e;
+  padding: 15px 20px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+} */
+.btn:hover {
+  opacity: 0.8;
+  color: wheat;
+}
